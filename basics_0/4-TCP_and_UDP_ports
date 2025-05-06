@@ -1,9 +1,4 @@
 #!/usr/bin/env bash
 
-# This script will display the list of TCP and UDP ports that are currently in use on the system.
-
-echo "List of listening ports with PID and associated program name:"
-sudo ss -tulnp
-echo ""
-echo "Active UNIX domain sockets (only servers)"
-sudo ss -xlnp
+# Display all listening TCP and UDP ports along with their details
+netstat -l --program
