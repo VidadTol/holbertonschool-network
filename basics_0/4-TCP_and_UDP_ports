@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # This script will display the list of TCP and UDP ports that are currently in use on the system.
 

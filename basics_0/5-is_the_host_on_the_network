@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Vérification de la présence d'un argument
 if [ -z "$1" ]; then
