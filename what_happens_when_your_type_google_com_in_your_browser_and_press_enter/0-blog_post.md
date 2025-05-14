@@ -6,6 +6,8 @@
 
 **Lorsque vous entrez une URL dans votre navigateur et appuyez sur Entrée, plusieurs étapes complexes se déroulent pour afficher la page web que vous souhaitez visiter. Voici une explication détaillée des différentes étapes impliquées dans ce processus.**
 
+<br>
+
 ## **1️⃣ Requête DNS – Trouver l’adresse IP du serveur**
 
 Le navigateur ne comprend pas directement les noms de domaine comme `www.google.com`. Il doit **traduire ce nom en une adresse IP** pour savoir où envoyer la requête.
