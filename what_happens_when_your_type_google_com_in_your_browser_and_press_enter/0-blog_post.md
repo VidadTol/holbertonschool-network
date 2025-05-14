@@ -1,5 +1,5 @@
 
-![illustration](image.png)
+![illustration](images/image.png)
 
 *************************
 
