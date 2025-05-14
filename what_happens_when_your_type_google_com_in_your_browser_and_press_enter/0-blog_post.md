@@ -4,7 +4,7 @@
 
 *************************
 
-**Lorsque vous entrez une URL dans votre navigateur et appuyez sur Entrée, plusieurs étapes complexes se déroulent pour afficher la page web que vous souhaitez visiter. Voici une explication détaillée des différentes étapes impliquées dans ce processus.**
+## **Lorsque vous entrez une URL dans votre navigateur et appuyez sur Entrée, plusieurs étapes complexes se déroulent pour afficher la page web que vous souhaitez visiter. Voici une explication détaillée des différentes étapes impliquées dans ce processus.**
 
 <br>
 
