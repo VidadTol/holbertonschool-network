@@ -101,3 +101,5 @@ Finally, the browser receives the data and displays it as a web page.
 ## **Conclusion**
 
 Pressing **Enter** after typing `https://www.google.com` triggers an incredibly sophisticated process involving **DNS resolution, HTTPS security, load management, web servers, and databases**. Every millisecond counts to quickly display the desired page.
+
+[📖 Lire mon article sur Medium](https://medium.com/@vidad31/when-you-type-www-google-com-e1cfe2e56e0f)
