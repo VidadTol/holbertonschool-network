@@ -1,6 +1,6 @@
 
 
-![diagram](images/Secured_and_monitored_web_infrastructure.png)
+![diagram](images/web_query_path.png)
 
 This diagram illustrates the **web request flow** when a user types `https://www.google.com` into their browser and presses **Enter**.
 

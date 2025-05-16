@@ -3,7 +3,7 @@
 
 *************************
 
-## **When you enter a URL into your browser and press Enter, several complex steps take place to display the web page you want to visit. Here is a detailed explanation of the different steps involved in this process.**
+## **When you type www.google.com into your browser and press Enter, several complex steps take place behind the scenes to display Google's homepage. This process involves DNS resolution, secure HTTPS communication, load balancing, and interactions with Google's powerful infrastructure. Here's a detailed breakdown of what happens from the moment you hit Enter until the Google search page appears on your screen.**
 
 <br>
 
